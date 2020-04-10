@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\berna\source\repos\Algoritmos de ordenação\funcaoMergeSort\funcaoMergeSort\Origem.cpp(58,9): warning C4101: 'i': variável local não referenciada
+  funcaoMergeSort.vcxproj -> C:\Users\berna\source\repos\Algoritmos de ordenação\funcaoMergeSort\Debug\funcaoMergeSort.exe
